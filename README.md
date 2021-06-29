@@ -13,6 +13,12 @@ The treatment of the hardening law is similar. The class _hard_laws_ is defined 
 
 Some util functions are provided in `util.py`.
 
+## Example script and Jupyter notebook
+
+A python script is provided in `example.py` as an example of the package usage.
+Additionally, a Jupyter notebook is also available in `ReturnMappingNotebook.ipynb`, with the corresponding output being provided in `ReturnMappingNotebook.pdf`.
+This Jupyter notebook is intended to be used for pedagogical purposes, in the framework of _Computational Plasticity_. The students can easily adjust the materials properties and strain/stress conditions to assess their impact on the inelastic behaviour.
+
 ## Usage
 A brief guide describing the usage of this package is presented in what follows.
 
@@ -127,11 +133,6 @@ my_material.plot_princ_stress_axis(ax, scaling = <value>)
 ```
 I suggest that the scaling value is related to the yield stress value, for instance `1.2*yield_stress`, for better visualisation.
 
-## Example script and Jupyter notebook
-
-A python script is provided in `example.py` as an example of the package usage.
-Additionally, a Jupyter notebook is also available in `ReturnMappingNotebook.ipynb`, with the corresponding output being provided in `ReturnMappingNotebook.pdf`.
-This Jupyter notebook is intended to be used for pedagogical purposes, in the framework of _Computational Plasticity_. The students can easily adjust the materials properties and strain/stress conditions to assess their impact on the inelastic behaviour.
-
 ## Contacts
 Send me an e-mail to ilopes@fe.up.pt if you have any question or comment.
+Contributions and collaborations are welcomed.
