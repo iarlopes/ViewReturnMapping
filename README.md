@@ -136,3 +136,5 @@ I suggest that the scaling value is related to the yield stress value, for insta
 ## Contacts
 Send me an e-mail to ilopes@fe.up.pt if you have any question or comment.
 Contributions and collaborations are welcomed.
+
+I want to express my gratitude to [António Carneiro](https://github.com/amcc1996) for his valuable suggestions.
